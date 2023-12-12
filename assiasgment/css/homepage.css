@@ -1,0 +1,183 @@
+/* img{ border-radius: 50%; display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30%;
+    max-height: 30% } */
+    
+  .logo{ border-radius: 50%; display: block;
+        margin-left: auto;
+        margin-right: auto;
+    max-width: 20%;
+    max-height: 20%;
+    }
+    .logo1{ border-radius: 50%; display: block;
+      margin-left: auto;
+      margin-right: auto;
+  max-width: 10%;
+  max-height: 60%;}
+        .shirt{height: 200px;
+         width: 800px;  
+
+        }
+
+    h1{text-align: center; text-decoration: underline;}
+    p{text-align: center;}
+    ol{text-align: center;}
+    ul{text-align: center;}
+    body{background-color:#B4CFEC ;
+    background-image: url ("methods.jpeg");}
+    body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      
+      .topnav {
+        overflow: hidden;
+        background-color: #338ad7;
+        
+      }
+      
+      .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      .topnav a:hover {
+        background-color: #ddd;
+        color: black;
+      }
+      
+      .topnav a.active {
+        background-color: #b41111;
+        color: white;}
+        div{text-align: center;}
+       
+            
+        img{      
+          margin-left: auto;
+          margin-right: auto;
+          width: 20%;}
+
+          form { background-color:#eaeaea; 
+
+            font-family: Arial, sans-serif; 
+           
+            padding: 10px; } 
+           
+           label { float: left; 
+           
+            width: 100px; 
+           
+            clear: left; 
+           
+            text-align: right; 
+           
+            padding-right: 10px; 
+           
+            margin-top: 10px; } 
+           
+           input, textarea { margin-top: 10px; 
+           
+            display: block; } 
+           
+           #mySubmit { margin-left: 110px; } 
+           
+           h2{text-align: center;}
+         .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+          }
+          footer {
+            position: fixed;
+            padding: 10px 10px 0px 10px;
+            bottom: 0;
+            width: 100%;
+            /* Height of the footer*/
+            height: 40px;
+            background-image: url("");
+            
+        }
+        .MySubmit{align-items: center;}
+        .middle{  
+          /* /* position:absolute; */
+          top: 95%;
+          left: 43%; 
+          align-items: center;
+     
+    
+          -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+        }
+        .shirt{display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+
+
+
+          
+       
+          
+          .col-75 {
+            -ms-flex: 75%; 
+            flex: 75%;
+          }
+          
+          
+          .col-75 {
+            padding: 0 16px;
+          }
+          
+          
+          
+      
+          
+         
+
+          
+         
+          
+          .card { background-color: antiquewhite;
+            box-shadow: 0 4px 8px 0 rgba(255, 20, 20, 0.455);
+            max-width: 300px;
+            margin: auto;
+            text-align: center;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          border: 4%;
+          border-color: #cb4b4b;
+        }
+          a
+          
+          
+          
+          
+          .price {
+            color: grey;
+            font-size: 22px;
+          }
+          
+          .card button {
+            border: none;
+            outline: 0;
+            padding: 12px;
+            color: white;
+            background-color: #cb4b4b;
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
+            font-size: 18px;
+          }
+         
+          h4{ text-align: center;}
+          .picture1{display:inline-table ;
+            margin-left: auto;
+            margin-right: auto; }
+            .ronaldo{display: block;
+              margin-left: auto;
+              margin-right: auto; }
+              .homepage{font-size: large;}
