@@ -1,1 +1,1 @@
-Initialize the Git Repo
+git add -A
