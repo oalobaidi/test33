@@ -1,2 +1,1 @@
-git add README.md
-git add .
+Initialize the Git Repo
